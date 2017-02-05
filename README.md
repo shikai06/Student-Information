@@ -1,3 +1,2 @@
 # Student-Information
-PHP practice
-Simple Web Based Student information without design.
+Web Dev Elective 1 exercise PHP practice to create a simple no design Student information, with a CRUD functions.

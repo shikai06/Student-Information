@@ -1,0 +1,30 @@
+.form
+{
+	padding-left: 40%;
+}
+.btn
+{
+	margin-left: 18%;
+}
+.searchbutton{
+	margin-left: 220px;
+	margin-bottom: -50px;
+}
+.viewbody{
+	margin-top: 90px;
+	margin-left: 45px;
+}
+h1{
+	color:#0b98da;
+}
+.btnform{
+	padding:10px;
+}
+.btnview{
+	padding: 10px;
+}
+.btndelup{
+	color: #0e8ec9;
+	text-decoration: none;
+	font-weight: bold;
+}
